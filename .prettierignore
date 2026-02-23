@@ -1,0 +1,8 @@
+/.vscode
+/node_nodules
+./dist
+
+
+*.env
+.env
+.env.*
